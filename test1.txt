@@ -1,0 +1,10 @@
+ Volume in drive C is System
+ Volume Serial Number is 9C76-72E4
+
+ Directory of C:\Users\awalunjkar\Desktop\MyGitProject
+
+03/04/2020  07:05 PM    <DIR>          .
+03/04/2020  07:05 PM    <DIR>          ..
+03/04/2020  07:05 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  913,353,764,864 bytes free
